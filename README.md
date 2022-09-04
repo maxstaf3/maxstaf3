@@ -35,4 +35,31 @@
 
 ---
 
-### :fire: MY STATS
+### :fire: NODERUNNING [ABOUT]
+
+My main occupation is to maintain a large number of Nodes in working orderю. I've been doing it for about two years now, and I'm still doing it today.
+<br>
+My duties include:<br>
+- Daily monitoring, I would even say hourly monitoring
+- Keeping track of all current news and updates, and actively participating in all discussions
+- Daily backup of all keys and other important files on each server
+- Validation of especially promising projects and active participation in fixing all kinds of errors
+<br> and so on.....<br><br>
+---
+### :fire: NODERUNNING [PORTFOLIO]
+
+A list of nodes in which I participated, or am still participating:<br>
+- MASSA (At the moment the 14th stage is already underway and the team obviously will not stop there)
+- MASA FINANCE (Perhaps the most unpretentious project, which is simply pleasant to follow day after day)
+- MINIMA (A unique project that allows you to use your phone to control the node)
+- CELESTIA (A promising project, which I am sure will bring a lot of experience in the future)
+- SUI (1 of 500 validators chosen from more than 28,000 participants)
+- IRON FISH (A promising project with a funny name, and it is possible to mine coins directly on your home server)
+- APTOS (A very interesting node with very serious requirements to become a validator)
+- ZEITGEIST (An obscure project in which many people were disappointed)
+- STARKNET (An interesting network with good prospects, but unfortunately recently declared unrewarding. But I continue to believe in the project out of personal conviction)
+- SUBSPACE (This project will definitely please fans of stress tests and good rewards)
+- HUMANODE (An intriguing project with its own launcher)
+- ESPRESSO (It's still too early to talk about this node, but it's better to start getting into it as early as possible, because the developers' promises are very intriguing)
+- GNOLAND
+- BUNDLR
