@@ -49,6 +49,7 @@ My duties include:<br>
 ### :fire: NODERUNNING [PORTFOLIO]
 
 A list of nodes in which I participated, or am still participating:<br>
+- :gem: SOLANA (This is the kind of project that can hook your heart and soul and enrich you. Unfortunately, such projects are very few and often you have to fight for them)
 - MASSA (At the moment the 14th stage is already underway and the team obviously will not stop there)
 - MASA FINANCE (Perhaps the most unpretentious project, which is simply pleasant to follow day after day)
 - MINIMA (A unique project that allows you to use your phone to control the node)
