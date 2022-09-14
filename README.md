@@ -64,3 +64,9 @@ A list of nodes in which I participated, or am still participating:<br>
 - ESPRESSO (It's still too early to talk about this node, but it's better to start getting into it as early as possible, because the developers' promises are very intriguing)
 - GNOLAND
 - BUNDLR
+
+---
+
+### 📉 STATISTICS
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=maxstaf3&theme=python-dark)](https://git.io/streak-stats)
