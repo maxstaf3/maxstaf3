@@ -70,3 +70,8 @@ A list of nodes in which I participated, or am still participating:<br>
 ### 📉 STATISTICS
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=maxstaf3&theme=python-dark)](https://git.io/streak-stats)
+
+---
+
+### :fire: ANNOUNCEMENT [BLOG!]
+- Now I will regularly describe what I do in the world of cryptocurrency. I will keep a kind of blog and please you with interesting selves:)
