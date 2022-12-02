@@ -75,3 +75,18 @@ A list of nodes in which I participated, or am still participating:<br>
 
 ### :fire: ANNOUNCEMENT [BLOG!]
 - Now I will regularly describe what I do in the world of cryptocurrency. I will keep a kind of blog and please you with interesting selves:)
+<br>
+
+---
+
+---------------- POST 02.12.2022 ----------------------------------
+<br>
+👋It's time for the first post. Yes, guys, that's right, it's time.
+
+Anyway, in the last week, phase 2 of iron fish is over. Well, I was not very happy with the results, according to preliminary data there will be not many coins. But I am not discouraged, because it's time to support Aleo serious project. There are very big rewards waiting for all my colleagues and me, I believe that this project will change my life. That's basically all I wanted to say, at least that's all the current information for the last couple of weeks for sure.
+
+Now a little bit about my life.
+I got an offline job so that I have money to pay for all the servers, for there are already more than 20 of them. Yeah, I'm in shock myself about it, but it's been happening gradually, so my psyche is still intact). Also, I started seeing a psychologist, because it is very difficult to bear all the emotional burden alone, it is just too difficult.
+And now it's time to say goodbye - until we meet again!
+
+---
