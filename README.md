@@ -90,3 +90,19 @@ I got an offline job so that I have money to pay for all the servers, for there 
 And now it's time to say goodbye - until we meet again!
 
 ---
+
+<br>
+
+---
+
+---------------- POST 11.12.2022 ----------------------------------
+<br>
+Today's post is all about purpose and the problem of the difficulty of achieving goals, even the most important ones.
+
+In general we are all human and we all like to plan something, especially before the weekend we set grand plans for the next week, and at the end of the year we swear to ourselves that we will be successful next year. But in the end all the promises and goals are broken and successfully postponed, and in their place comes a whole bunch of clever excuses and a million reasons. Then it all turns into a huge snowball, I would even say a colossal snowball. And the lucky one is the one whose heart melts it very quickly. But often this is not the case, and this unfortunate lump gradually cools the ardor and heat.
+
+How to avoid it? How to stop procrastinating? After all, even willpower does not help, because it is extremely difficult and sometimes unreal to deceive your brain or force it to overstretch.
+
+This is how this post turned out. I hope this will lead you to certain thoughts and I myself will try to find the answer to all these questions in a week. See you later!
+
+---
