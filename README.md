@@ -106,3 +106,13 @@ How to avoid it? How to stop procrastinating? After all, even willpower does not
 This is how this post turned out. I hope this will lead you to certain thoughts and I myself will try to find the answer to all these questions in a week. See you later!
 
 ---
+
+<br>
+
+---
+
+---------------- POST 11.02.2023 ----------------------------------
+<br>
+I am writing very important things today. First of all, where have I been lately? After the holidays it was a very busy time, full of work and important events.<br><br>
+Today I will be brief again, unfortunately... There is no other way, because I want to tell everything so much, that even a day will not be enough.<br><br>
+In general, all the nodes were updated, new stages, new phases everywhere. And most importantly, friends... I got into the second phase of the SUI! They sent me an email and I am right now keeping the node running. That's all for now.
